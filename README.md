@@ -8,3 +8,8 @@
         <h1>İlkokulhane</h1>
         <p>İlkokulhane'de eğitim dosyaları ve videoları bulunur.</p>
     </body>
+    <video width="360" height="320" controls="controls">
+  <source src="video.mp4" type="video/mp4" />
+  <source src="video.ogg" type="video/ogg" />
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
